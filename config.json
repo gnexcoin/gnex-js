@@ -1,6 +1,6 @@
 {
   "transport": "http",
-  "websocket": "wss://gnexportal.com:9000",
+  "websocket": "wss://gnexportal.com:9876",
   "uri": "http://gnexportal.com:9000",
   "url": "",
   "dev_uri": "http://gnexportal.com:9000",
