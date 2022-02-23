@@ -1,5 +1,5 @@
 {
-  "name": "steem-js-webpack-example",
+  "name": "gnex-js-webpack-example",
   "scripts": {
     "build": "npm run build-web && npm run build-node",
     "build-web": "webpack",
