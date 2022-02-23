@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/steemit/steem-js/blob/master/LICENSE)
+oi[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/steemit/steem-js/blob/master/LICENSE)
 [![Steem.js channel on steemit.chat](https://img.shields.io/badge/chat-steemit.chat-1c56a4.svg)](https://steemit.chat/channel/steemjs)
 
 # Gnex.js
@@ -42,9 +42,9 @@ steem.api.getAccounts(['ned', 'dan'], function(err, response){
 ```
 
 ## CDN
-https://cdn.jsdelivr.net/npm/steem/dist/steem.min.js<br/>
+https://cdn.jsdelivr.net/npm/gnexcoin/dist/steem.min.js<br/>
 ```html
-<script src="https://cdn.jsdelivr.net/npm/steem/dist/steem.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/gnexcoin/dist/steem.min.js"></script>
 ```
 
 ## Webpack
@@ -53,7 +53,7 @@ https://cdn.jsdelivr.net/npm/steem/dist/steem.min.js<br/>
 ## Server
 ## Install
 ```
-$ npm install steem --save
+$ npm install @gnexcoin/gnex-js --save
 ```
 
 ## RPC Servers
