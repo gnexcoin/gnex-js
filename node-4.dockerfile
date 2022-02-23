@@ -1,6 +1,6 @@
 FROM node:4
-ADD ./package.json /steemjs/package.json
-WORKDIR /steemjs
+ADD ./package.json /gnexjs/package.json
+WORKDIR /gnexjs
 RUN npm install
-ADD . /steemjs
+ADD . /gnexjs
 RUN npm test
