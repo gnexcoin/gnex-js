@@ -1,5 +1,5 @@
 {
-  "name": "@gnexcoin/gnex-js",
+  "name": "@gnexcoin/gnexjs",
   "version": "0.7.11",
   "description": "Gnex.js the JavaScript API for Steem blockchain",
   "main": "lib/index.js",
@@ -16,20 +16,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gnexcoin/gnex-js.git"
+    "url": "git+https://github.com/gnexcoin/gnexjs.git"
   },
   "keywords": [
-    "steem",
-    "steemit",
+    "gnex",
+    "gnexcoin",
     "blockchain",
-    "steemjs"
+    "gnexjs"
   ],
   "author": "Fabien (https://github.com/bonustrack)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gnexcoin/gnex-js/issues"
+    "url": "https://github.com/gnexcoin/gnexjs/issues"
   },
-  "homepage": "https://github.com/gnexcoin/gnex-js#readme",
+  "homepage": "https://github.com/gnexcoin/gnexjs#readme",
   "dependencies": {
     "@steemit/rpc-auth": "^1.1.1",
     "bigi": "^1.4.2",
