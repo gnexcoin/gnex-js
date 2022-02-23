@@ -11,11 +11,11 @@ jobs:
           command: docker build -f node-6.dockerfile -t steemjs .
       - run:
           name: Save Docker image
-          command: docker save -o steemjs.tar steemjs
+          command: docker save -o gnexjs.tar gnexjs
       - persist_to_workspace:
           root: .
           paths:
-            - steemjs.tar
+            - gnexjs.tar
 workflows:
   version: 2
   condenser:
