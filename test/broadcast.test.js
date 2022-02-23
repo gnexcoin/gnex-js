@@ -73,7 +73,7 @@ describe('steem.broadcast:', () => {
           operations: [[
             'account_create',
             {
-              fee: '0.000 STEEM',
+              fee: '0.000 GNEX',
               creator: username,
               new_account_name: newAccountName,
               owner: {
