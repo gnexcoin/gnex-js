@@ -1,5 +1,5 @@
 {
-  "name": "gnex-js-webpack-example",
+  "name": "gnexjs-webpack-example",
   "scripts": {
     "build": "npm run build-web && npm run build-node",
     "build-web": "webpack",
